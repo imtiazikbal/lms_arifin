@@ -67,7 +67,7 @@
 
     {{-- header here --}}
 
-    @include('fontend.layout.header')
+    {{-- @include('fontend.layout.header') --}}
     {{-- header end --}}
 
 
